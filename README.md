@@ -19,7 +19,7 @@
 
 💻 Passionate about Software Development and Web Technologies
 
-🚀 Skilled in MERN Stack Development, Java, Python, and SQL
+🚀 Skilled in MERN Stack Development, C, Java, Python, and SQL
 
 🌱 Currently exploring Cloud Computing and Generative AI
 
