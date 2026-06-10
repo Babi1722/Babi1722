@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Kotikalapudi Jyothi Chandra Babi</h1>
 <h3 align="center">B.Sc IT Graduate | MERN Stack Developer | Aspiring Software Engineer</h3>
